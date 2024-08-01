@@ -2,18 +2,32 @@
   "banners": {
     "ITSW": [
       {
-        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/uga.gif",
-        "link": "https://www.topjobs.lk"
+        "https://topjobs.lk/banner/mobile_app_banners/banners/genesiis.jpg",
+        "link": "https://www.ugaescapes.com"
       }
     ],
     "ACC": [
       {
-        "image": "https://i.ibb.co/1LCqKmt/pexels-chevanon-325044.jpg",
-        "link": "https://fintech.lk"
+        "https://topjobs.lk/banner/mobile_app_banners/banners/gis.jpg",
+        "link": "https://www.ugaescapes.com"
       },
       {
-        "image": "https://i.ibb.co/9y146Hn/pexels-vladalex94-1402787.jpg",
-        "link": "https://www.fincoholdings.com"
+        "https://topjobs.lk/banner/mobile_app_banners/banners/uga.jpg",
+        "link": "https://www.ugaescapes.com"
+      }
+    ],
+    "PLP": [
+      {
+        "https://topjobs.lk/banner/mobile_app_banners/banners/genesiis.jpg",
+        "link": "https://www.ugaescapes.com"
+      },
+      {
+        "https://topjobs.lk/banner/mobile_app_banners/banners/gis.jpg",
+        "link": "https://www.ugaescapes.com"
+      },
+      {
+        "https://topjobs.lk/banner/mobile_app_banners/banners/uga.jpg",
+        "link": "https://www.ugaescapes.com"
       }
     ]
   }
