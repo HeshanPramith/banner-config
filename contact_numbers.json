@@ -2,19 +2,23 @@
     "numbers" : [
         {
             "name" : "Silmiya",
-            "number" : "+94769108691"
+            "number" : "+94769108691",
+            "color" : "#f52c2c"
         },
         {
             "name" : "Nirthika",
-            "number" : "+94769108926"
+            "number" : "+94769108926",
+            "color" : "#610354"
         },
         {
             "name" : "Madushani",
-            "number" : "+94769108766"
+            "number" : "+94769108766",
+            "color" : "#f5820f"
         },
         {
             "name" : "Danushka",
-            "number" : "+94768938443"
+            "number" : "+94768938443",
+            "color" : "#1904d6"
         }
     ]
 }
