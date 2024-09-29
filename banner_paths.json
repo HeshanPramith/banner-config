@@ -1,19 +1,140 @@
 {
+  "comments": {
+    "change-log": {
+      "SDB-1473-5262": "20240802 HP SDB-1473-5262 Created banner_paths.json file for accessing the banner image and banner link",
+      "SDB-1477-5264": "20240809 HP SDB-1477-5264 Added new location parameter & values",
+      "SDB-1490-5283": "20240902 HP SDB-1490-5283 implemented new banner slider in middle of category list, PLP, FA"
+    },
+    "banner_structure" : {
+      "PLP" : "topjobs top right banner slot",
+      "PLP_SIDE" : "topjobs PLP right banner slot",
+      "FA_SIDE" : "topjobs common FA right banner slot"
+    }
+  },
   "banners": {
-    "ITSW": [
+    "SDQ": [
       {
         "image": "https://topjobs.lk/banner/mobile_app_banners/banners/genesiis.jpg",
-        "link": "https://www.ugaescapes.com"
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Colombo 03"
       }
     ],
-    "ACC": [
+    "ACA": [
       {
         "image": "https://topjobs.lk/banner/mobile_app_banners/banners/gis.jpg",
-        "link": "https://www.ugaescapes.com"
+        "link": "https://www.genesiis.com",
+        "location": "Dehiwala"
       },
       {
         "image": "https://topjobs.lk/banner/mobile_app_banners/banners/uga.jpg",
-        "link": "https://www.ugaescapes.com"
+        "link": "https://www.ugaescapes.com",
+        "location": "Kotte"
+      }
+    ],
+    "PLP": [
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/genesiis.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Colombo 04"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/col-4.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Colombo 04"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/gis.jpg",
+        "link": "https://www.genesiis.com",
+        "location": "Colombo 03"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/uga.jpg",
+        "link": "https://www.ugaescapes.com",
+        "location": "Colombo 01"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/genesiis.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Rathmalana"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/wellawatta.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Colombo 06"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/dehiwala.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Dehiwala"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/ratmalana.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Rathmalana"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/moratuwa.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Moratuwa"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/panadura.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Panadura"
+      }
+    ],
+    "PLP_SIDE": [
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/genesiis.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Colombo 03"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/gis.jpg",
+        "link": "https://www.genesiis.com",
+        "location": "Colombo 03"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/uga.jpg",
+        "link": "https://www.ugaescapes.com",
+        "location": "Colombo 03"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/genesiis.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Rathmalana"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/wellawatta.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Colombo 06"
+      }
+    ],
+    "FA_SIDE": [
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/genesiis.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Colombo 03"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/gis.jpg",
+        "link": "https://www.genesiis.com",
+        "location": "Colombo 03"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/uga.jpg",
+        "link": "https://www.ugaescapes.com",
+        "location": "Colombo 03"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/genesiis.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Rathmalana"
+      },
+      {
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/wellawatta.jpg",
+        "link": "https://www.topjobs.lk/genesiis",
+        "location": "Colombo 06"
       }
     ]
   }
