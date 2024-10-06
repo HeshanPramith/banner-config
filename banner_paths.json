@@ -3,7 +3,7 @@
     "change-log": {
       "SDB-1473-5262": "20240802 HP SDB-1473-5262 Created banner_paths.json file for accessing the banner image and banner link ",
       "SDB-1477-5264": "20240809 HP SDB-1477-5264 Added new location parameter & values",
-      "SDB-1490-5283": "20240902 HP SDB-1490-5283 implemented new banner slider in middle of category list, PLP, FA "
+      "SDB-1490-5283": "20240902 HP SDB-1490-5283 implemented new banner slider in middle of category list, PLP, FA"
     },
     "banner_structure" : {
       "PLP" : "topjobs top right banner slot",
