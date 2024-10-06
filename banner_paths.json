@@ -14,19 +14,19 @@
   "banners": {
     "SDQ": [
       {
-        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/genesiis.jpg",
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/wellawatta.jpg",
         "link": "https://www.topjobs.lk/genesiis",
         "location": "Colombo 03"
       }
     ],
     "ACA": [
       {
-        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/gis.jpg",
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/moratuwa.jpg",
         "link": "https://www.genesiis.com",
         "location": "Dehiwala"
       },
       {
-        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/uga.jpg",
+        "image": "https://topjobs.lk/banner/mobile_app_banners/banners/ratmalana.jpg",
         "link": "https://www.ugaescapes.com",
         "location": "Kotte"
       }
